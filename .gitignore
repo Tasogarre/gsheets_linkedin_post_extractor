@@ -1,0 +1,67 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Test Data
+test_data/
+scratch/
+temp/
+
+# Personal Notes
+notes.txt
+TODO.txt
+personal_notes.md
+
+# Backup Files
+*.bak
+*~
+*.backup
+
+# Google Apps Script
+.clasp.json
+.claspignore
+
+# Environment Files (if added in future)
+.env
+.env.local
+.env.*.local
+
+# Node modules (if added in future)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if added in future)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.Python
+
+# Misc
+.cache/
+.vagrant/
